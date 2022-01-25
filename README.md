@@ -1,4 +1,4 @@
-# google-chrome-gestionat
+# Google Chrome Gestionat
 Google Chrome gestionat a la Linkat
 
 Aquest és un projecte per a gestionar el Google Chrome amb una clau de token del Google Workspace, està pensat per a la Linkat, però pot ser utilitzat en altres distribucions com Ubuntu.
