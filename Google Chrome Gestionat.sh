@@ -1,5 +1,5 @@
 #!/bin/bash
-#Autor Òscar Herran i Morueco
+#Autor Òscar Herrán Morueco
 #Configuració Google Chrome Gestionat
 root_check()
 {
