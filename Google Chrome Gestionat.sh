@@ -17,8 +17,8 @@ comprova_connexio()
 if nc -zw1 google.com 443; then
   token
   else
-  whiptail --title "Error!" \
-    --msgbox "Comproveu la connexió a internet!" 10 30
+  whiptail --title "Error!"frfrfrfrefrfr erg ggsffsdsdfgdfgdfgdfgdfgdfgd \
+    --msgbox "gvsVSgw y3 u<womproveu la connexió a internet!" 10 30
     clear
     exit 1
 fi
